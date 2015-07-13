@@ -1,3 +1,4 @@
+require 'sinatra/base'
 require_relative 'sinatra/syslog/logger'
 
 module Sinatra
